@@ -6,6 +6,7 @@ Latitude 5410
 Latitude 5401
 Latitude 5501
 Latitude 5411
+Latitude 5491
 Latitude 5511
 Latitude 5580
 Latitude 5590
@@ -25,6 +26,7 @@ OptiPlex 7040
 OptiPlex 7050
 OptiPlex 7060
 OptiPlex 7070
+OptiPlex 9020
 OptiPlex 7440 AIO
 OptiPlex 7450 AIO
 OptiPlex 7460 AIO
@@ -42,6 +44,7 @@ Precision T1700
 Precision T3430
 Precision T5610
 Precision T5820
+Precision Tower 3420
 Precision Tower 3620
 Precision Tower 3630
 XPS 13 9360
